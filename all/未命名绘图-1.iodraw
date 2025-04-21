@@ -34,6 +34,33 @@
         <mxCell id="mjQcgC1TjaemKI_NEYec-3" value="点击考试管理&lt;div&gt;（）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="300" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mjQcgC1TjaemKI_NEYec-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mjQcgC1TjaemKI_NEYec-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mjQcgC1TjaemKI_NEYec-18" value="学校管理端&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mjQcgC1TjaemKI_NEYec-17">
+          <mxGeometry x="0.1005" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mjQcgC1TjaemKI_NEYec-19" value="教师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="395" y="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mjQcgC1TjaemKI_NEYec-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mjQcgC1TjaemKI_NEYec-21" target="mjQcgC1TjaemKI_NEYec-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mjQcgC1TjaemKI_NEYec-21" value="点击智能评测&lt;div&gt;（）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mjQcgC1TjaemKI_NEYec-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mjQcgC1TjaemKI_NEYec-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mjQcgC1TjaemKI_NEYec-23" value="点击考试管理&lt;div&gt;（）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
