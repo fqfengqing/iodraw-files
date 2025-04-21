@@ -6,7 +6,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="iOVwszp3OyYre9JVscko-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iOVwszp3OyYre9JVscko-0" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="385" y="190" as="targetPoint" />
+            <mxPoint x="120" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mjQcgC1TjaemKI_NEYec-2" value="学校管理端&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iOVwszp3OyYre9JVscko-2">
@@ -15,7 +15,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iOVwszp3OyYre9JVscko-0" value="教师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="370" y="50" width="30" height="60" as="geometry" />
+          <mxGeometry x="105" y="60" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iOVwszp3OyYre9JVscko-13" value="&lt;h3 style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, sans-serif; scrollbar-color: rgba(0, 0, 0, 0.25) rgba(0, 0, 0, 0); margin: 0px 0px 16px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; font-size: 16px; line-height: 26px; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; letter-spacing: 0px; color: rgba(0, 0, 0, 0.9); text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;&quot;&gt;&lt;span style=&quot;font-family: inherit; scrollbar-color: transparent transparent; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline;&quot; class=&quot;&quot;&gt;发行与推广阶段&lt;/span&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="325" y="720" width="120" height="60" as="geometry" />
@@ -24,20 +24,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mjQcgC1TjaemKI_NEYec-1" value="点击智能评测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="325" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mjQcgC1TjaemKI_NEYec-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mjQcgC1TjaemKI_NEYec-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="385" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mjQcgC1TjaemKI_NEYec-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mjQcgC1TjaemKI_NEYec-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="525" y="320" as="targetPoint" />
+            <mxPoint x="120" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mjQcgC1TjaemKI_NEYec-3" value="点击考试管理&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="325" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
