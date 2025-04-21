@@ -26,26 +26,18 @@
         <mxCell id="mjQcgC1TjaemKI_NEYec-1" value="点击智能评测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="325" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mjQcgC1TjaemKI_NEYec-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mjQcgC1TjaemKI_NEYec-3" target="mjQcgC1TjaemKI_NEYec-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mjQcgC1TjaemKI_NEYec-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mjQcgC1TjaemKI_NEYec-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="mjQcgC1TjaemKI_NEYec-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mjQcgC1TjaemKI_NEYec-3" target="mjQcgC1TjaemKI_NEYec-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mjQcgC1TjaemKI_NEYec-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mjQcgC1TjaemKI_NEYec-3" target="mjQcgC1TjaemKI_NEYec-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mjQcgC1TjaemKI_NEYec-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mjQcgC1TjaemKI_NEYec-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mjQcgC1TjaemKI_NEYec-3" value="点击考试管理&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="325" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mjQcgC1TjaemKI_NEYec-5" value="点击创建考试" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mjQcgC1TjaemKI_NEYec-7" value="按条件搜索考试" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="325" y="400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mjQcgC1TjaemKI_NEYec-9" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
