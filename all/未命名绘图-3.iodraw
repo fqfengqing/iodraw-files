@@ -31,7 +31,7 @@
         <mxCell id="LMsnRaKOvlv86xIyCAYV-5" value="学生线下做了打印的作业，学生自己或家长用小程序拍照获取答案。并留存此照片原卷上传到系统供老师查看" style="whiteSpace=wrap;html=1;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="197.5" y="360" width="135" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Qo5J-jxEXW5DGUccNOPF-1" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qo5J-jxEXW5DGUccNOPF-1" value="同时支持学生将答题卡带回学校给老师批阅后，走扫描机的流程" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="205" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
