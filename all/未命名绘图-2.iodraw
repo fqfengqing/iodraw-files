@@ -25,7 +25,7 @@
         <mxCell id="LMsnRaKOvlv86xIyCAYV-3" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="260" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LMsnRaKOvlv86xIyCAYV-5" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LMsnRaKOvlv86xIyCAYV-5" value="学生线下做了打印的作业，学生自己或家长用小程序拍照获取答案。并留存此照片原卷上传到系统供老师查看" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="205" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
