@@ -37,8 +37,8 @@
         <mxCell id="Qo5J-jxEXW5DGUccNOPF-1" value="同时支持学生将答题卡带回学校给老师批阅后，走扫描机的流程" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="202.5" y="460" width="125" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qo5J-jxEXW5DGUccNOPF-3" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="205" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="Qo5J-jxEXW5DGUccNOPF-3" value="扫描结果记录到系统支持同步到学情分析" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="205" y="550" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
